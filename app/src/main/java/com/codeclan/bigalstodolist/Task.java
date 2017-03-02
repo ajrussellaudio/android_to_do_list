@@ -2,10 +2,6 @@ package com.codeclan.bigalstodolist;
 
 import java.util.Date;
 
-/**
- * Created by alanrussell on 02/03/2017.
- */
-
 public class Task {
 
     private int id;

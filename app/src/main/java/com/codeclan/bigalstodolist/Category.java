@@ -1,9 +1,5 @@
 package com.codeclan.bigalstodolist;
 
-/**
- * Created by alanrussell on 02/03/2017.
- */
-
 public class Category {
 
     private String name;
